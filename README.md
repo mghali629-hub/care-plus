@@ -1,8 +1,8 @@
 ﻿# 🩺 CarePlus — Full-Stack Healthcare & Patient Portal Platform
 
-Full-stack Next.js 14 medical clinic application featuring physician directories, dynamic doctor profiles, appointment booking engine, health screening packages, patient portals, and Prisma SQLite database synchronization.
+Full-stack healthcare & medical clinic portal for managing appointments, physician directories, patient records, and health screening packages.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript & React 18
 - **Styling**: TailwindCSS & Lucide Icons
@@ -14,6 +14,7 @@ npm install
 npx prisma db push
 npm run db:seed
 npm run dev
-``n
+`
+
 ## 📄 License
 MIT License.
